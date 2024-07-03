@@ -1,0 +1,61 @@
+﻿  dllmain.cpp
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(9,35): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(9,35): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(9,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(9,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(9,53): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(9,53): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(9,59): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(9,59): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(10,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(10,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(10,55): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(10,55): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(10,97): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(10,97): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(10,139): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(10,139): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(10,181): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(10,181): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(10,223): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(10,223): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(10,229): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(10,229): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(10,235): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(10,235): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(10,241): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.hpp(10,241): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\helper.hpp(8,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\overhill\source\repos\scp2\scp2\cheat\visuals.hpp(309,82): warning C4244: 'argument': conversion from 'uintptr_t' to 'unsigned int', possible loss of data
+C:\Users\overhill\source\repos\scp2\scp2\cheat\visuals.hpp(354,79): warning C4244: 'argument': conversion from 'uintptr_t' to 'unsigned int', possible loss of data
+C:\Users\overhill\source\repos\scp2\scp2\cheat\visuals.hpp(356,69): warning C4244: '=': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\overhill\source\repos\scp2\scp2\cheat\visuals.hpp(383,62): warning C4244: 'argument': conversion from 'uintptr_t' to 'unsigned int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(186,16): warning C4244: 'initializing': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\overhill\source\repos\scp2\scp2\cheat\visuals.hpp(362): message : see reference to function template instantiation 'std::pair<int,int>::pair<float&,float&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=float &,
+              _Other2=float &
+          ]
+C:\Users\overhill\source\repos\scp2\scp2\cheat\visuals.hpp(362): message : see reference to function template instantiation 'std::pair<int,int>::pair<float&,float&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=float &,
+              _Other2=float &
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(186,54): warning C4244: 'initializing': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  138 of 1201 functions (11.5%) were compiled, the rest were copied from previous compilation.
+    103 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  scp2.vcxproj -> C:\Users\overhill\source\repos\scp2\x64\Release\scp2.dll

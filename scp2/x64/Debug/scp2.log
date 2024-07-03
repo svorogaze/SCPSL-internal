@@ -1,0 +1,33 @@
+﻿  dllmain.cpp
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(7,35): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(7,35): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(7,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(7,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(7,53): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(7,53): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(7,59): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(7,59): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(8,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(8,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(8,55): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(8,55): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(8,97): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(8,97): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(8,139): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(8,139): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(8,181): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(8,181): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(8,223): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(8,223): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(8,229): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(8,229): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(8,235): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(8,235): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(8,241): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\overhill\source\repos\scp2\scp2\cheat\globals.h(8,241): warning C4309: 'initializing': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\dllmain.cpp(42,46): warning C4244: 'argument': conversion from 'uintptr_t' to 'unsigned int', possible loss of data
+C:\Users\overhill\source\repos\scp2\scp2\dllmain.cpp(106,24): warning C4309: '=': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\dllmain.cpp(107,97): warning C4244: '=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\Users\overhill\source\repos\scp2\scp2\dllmain.cpp(108,27): warning C4309: '=': truncation of constant value
+C:\Users\overhill\source\repos\scp2\scp2\dllmain.cpp(109,100): warning C4244: '=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+  scp2.vcxproj -> C:\Users\overhill\source\repos\scp2\x64\Debug\scp2.dll
